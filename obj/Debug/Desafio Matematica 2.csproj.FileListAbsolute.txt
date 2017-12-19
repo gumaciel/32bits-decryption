@@ -1,0 +1,6 @@
+C:\Users\SToddy\Desktop\Desafio matematica 2\Desafio Matematica 2\Desafio Matematica 2\bin\Debug\Desafio Matematica 2.exe.config
+C:\Users\SToddy\Desktop\Desafio matematica 2\Desafio Matematica 2\Desafio Matematica 2\bin\Debug\Desafio Matematica 2.exe
+C:\Users\SToddy\Desktop\Desafio matematica 2\Desafio Matematica 2\Desafio Matematica 2\bin\Debug\Desafio Matematica 2.pdb
+C:\Users\SToddy\Desktop\Desafio matematica 2\Desafio Matematica 2\Desafio Matematica 2\obj\Debug\Desafio Matematica 2.csprojResolveAssemblyReference.cache
+C:\Users\SToddy\Desktop\Desafio matematica 2\Desafio Matematica 2\Desafio Matematica 2\obj\Debug\Desafio Matematica 2.exe
+C:\Users\SToddy\Desktop\Desafio matematica 2\Desafio Matematica 2\Desafio Matematica 2\obj\Debug\Desafio Matematica 2.pdb
